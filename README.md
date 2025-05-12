@@ -1,2 +1,2 @@
 # image-manipulation-api
-Cloud hosted image manipulation service
+A cloud hosted image manipulation service
